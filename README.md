@@ -23,7 +23,7 @@ MVI Architecture with Kotlin , Rxjava . Testing with Mockito,Roboelectric
 ```
 MIT License
 
-Copyright (c) [2018] [Bedanta Bikash Borah]
+Copyright (c) [2018] [Manisha Prasad]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
